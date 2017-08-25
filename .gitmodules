@@ -1,0 +1,3 @@
+[submodule "pytras"]
+	path = pytras
+	url = https://github.com/hackl/pytras.git
